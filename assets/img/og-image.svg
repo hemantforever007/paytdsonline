@@ -1,0 +1,17 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PayTDS Online - TDS Return Filing">
+  <defs>
+    <linearGradient id="ogbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2742"/>
+      <stop offset="1" stop-color="#1366d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#ogbg)"/>
+  <rect x="80" y="80" width="60" height="60" rx="16" fill="#fff"/>
+  <path d="M96 110l13 13 25-28" stroke="#1366d6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="160" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="800" fill="#fff">PayTDS Online</text>
+  <text x="80" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800" fill="#fff">TDS Return Filing</text>
+  <text x="80" y="410" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800" fill="#7fb0ff">Made Simple</text>
+  <text x="80" y="490" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="500" fill="#cfe0fb">24Q · 26Q · 27Q · 27EQ · ITR · GST · Registrations</text>
+  <rect x="80" y="525" width="360" height="64" rx="32" fill="#25d366"/>
+  <text x="260" y="566" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#fff">WhatsApp 9818426375</text>
+</svg>

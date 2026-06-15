@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paytdsonline.com/sitemap.xml
